@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST={__rewrites:{beforeFiles:[],afterFiles:[],fallback:[]},"/":["static/chunks/pages/index-01051acc0e8c042c.js"],"/_error":["static/chunks/pages/_error-54de1933a164a1ff.js"],"/chevron-right":["static/chunks/pages/chevron-right-97f533a5743c5205.js"],sortedPages:["/","/_app","/_error","/chevron-right"]},self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();
